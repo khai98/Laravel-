@@ -18,7 +18,7 @@ Route::get('/login', function () {
     return view('welcome');
 });
 
-Route::get('/login1', function () {
+Route::get('/logi31', function () {
     return view('welcome');
 });
 
@@ -31,7 +31,7 @@ Route::get('/login3', function () {
 Route::get('/login4', function () {
     return view('welcome');
 });
-Route::get('/login5', function () {
+Route::get('/login7', function () {
     return view('welcome');
 });
 

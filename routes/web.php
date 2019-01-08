@@ -14,3 +14,28 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/login', function () {
+    return view('welcome');
+});
+
+Route::get('/login1', function () {
+    return view('welcome');
+});
+
+Route::get('/login2', function () {
+    return view('welcome');
+});
+Route::get('/login3', function () {
+    return view('welcome');
+});
+Route::get('/login4', function () {
+    return view('welcome');
+});
+Route::get('/login5', function () {
+    return view('welcome');
+});
+
+
+
+
+
